@@ -40,10 +40,8 @@ if(result == -1):
 else:
     print(array)
     print("Element found at index: ",result)
-
-
-
 ```
+
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
 ''' 
@@ -71,14 +69,8 @@ if(result == -1):
 else:
     print(array)
     print("Element found at index: ",result)
-
-
-
-
-
-
-
 ```
+
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
@@ -109,12 +101,8 @@ if(result == -1):
 else:
     print(arr)
     print("Element found at index: ",result)
-
-
-
-
-
 ```
+
 ## Output
 
 ![linear search](https://github.com/ARCHANAT1305/Search-Algorithm/assets/145975189/96ec0ed4-de7c-426e-9e03-f3efb2ab15f5)
